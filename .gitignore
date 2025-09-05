@@ -1,0 +1,13 @@
+# Node dependencies
+node_modules/
+
+# React Native / Android / iOS
+android/build/
+ios/build/
+*.log
+*.lock
+.expo/
+*.iml
+.gradle/
+.idea/
+.DS_Store
