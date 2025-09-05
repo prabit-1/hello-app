@@ -1,13 +1,32 @@
 # Node dependencies
 node_modules/
 
-# React Native / Android / iOS
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+*.log
+
+# Lock files
+package-lock.json
+yarn.lock
+
+# React Native / Android / iOS builds
+android/app/build/
 android/build/
 ios/build/
-*.log
-*.lock
+*.apk
+*.aab
+
+# Expo
 .expo/
+
+# IDE / Editor files
 *.iml
 .gradle/
 .idea/
 .DS_Store
+.vscode/
+
+# Misc
+.env
