@@ -1,0 +1,1 @@
+C:\Users\DELL\Desktop\hello\HelloApp\android\app\build\intermediates\cxx\RelWithDebInfo\6v5id2a5\obj\x86

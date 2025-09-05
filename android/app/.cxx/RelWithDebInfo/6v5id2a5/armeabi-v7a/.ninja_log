@@ -1,0 +1,17 @@
+# ninja log v5
+7	79	0	C:/Users/DELL/Desktop/hello/HelloApp/android/app/.cxx/RelWithDebInfo/6v5id2a5/armeabi-v7a/CMakeFiles/cmake.verify_globs	3b108c483f88499d
+108	13853	7787540234427365	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/3fcee03ac52a58ff9ba7afefca4c44b3/components/safeareacontext/States.cpp.o	3a5fc2397091fad4
+74	15917	7787540257864162	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/3fcee03ac52a58ff9ba7afefca4c44b3/components/safeareacontext/EventEmitters.cpp.o	971286f45465e0f1
+164	16601	7787540265258400	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/8a13701acf1dcd5d9c9d8249f7d010ef/codegen/jni/safeareacontext-generated.cpp.o	494d1bdd2bedc3a5
+129	16606	7787540265238427	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/d88f62bd470b179d2668960afce7c942/safeareacontextJSI-generated.cpp.o	acb10bb4c0d41fbb
+2	18016	7787540279569639	CMakeFiles/appmodules.dir/OnLoad.cpp.o	19f6f366b7a2f0b6
+45	18163	7787540279978427	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/7c1936bb3610c2b5a18a6980279e1f4f/safeareacontext/RNCSafeAreaViewState.cpp.o	b6a64f74ee3dba08
+145	18473	7787540284117464	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/3fcee03ac52a58ff9ba7afefca4c44b3/components/safeareacontext/ShadowNodes.cpp.o	864f75f0f5cabc5d
+58	21952	7787540318720897	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/0a92a8a637679970a0c416c4e35b266e/renderer/components/safeareacontext/Props.cpp.o	17214e8a3a2026bf
+92	23308	7787540332114250	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/9d8255a45a6b9fe5acc1ed8b2226a70a/safeareacontext/ComponentDescriptors.cpp.o	dd585bcb6ba54891
+31	23949	7787540338725727	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/7c1936bb3610c2b5a18a6980279e1f4f/safeareacontext/RNCSafeAreaViewShadowNode.cpp.o	f7ad670b186989b2
+23951	24370	7787540342910763	C:/Users/DELL/Desktop/hello/HelloApp/android/app/build/intermediates/cxx/RelWithDebInfo/6v5id2a5/obj/armeabi-v7a/libreact_codegen_safeareacontext.so	84e4f598c37e92c6
+17	26862	7787540367861310	CMakeFiles/appmodules.dir/C_/Users/DELL/Desktop/hello/HelloApp/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o	39cb69046abb7d9c
+26863	27120	7787540370746793	C:/Users/DELL/Desktop/hello/HelloApp/android/app/build/intermediates/cxx/RelWithDebInfo/6v5id2a5/obj/armeabi-v7a/libappmodules.so	728820fd0aefcad8
+17	162	0	C:/Users/DELL/Desktop/hello/HelloApp/android/app/.cxx/RelWithDebInfo/6v5id2a5/armeabi-v7a/CMakeFiles/cmake.verify_globs	3b108c483f88499d
+0	61	0	clean	4e350e9dcb7ec83f

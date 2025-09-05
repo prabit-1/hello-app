@@ -1,0 +1,17 @@
+# ninja log v5
+76	317	0	C:/Users/DELL/Desktop/hello/HelloApp/android/app/.cxx/RelWithDebInfo/6v5id2a5/x86/CMakeFiles/cmake.verify_globs	424f9867c8914380
+122	19500	7787540665811938	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/68387415e4531d4a945dd29aa0e87b25/react/renderer/components/safeareacontext/States.cpp.o	cc0c9c202db79120
+61	21610	7787540692858913	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/0a92a8a637679970a0c416c4e35b266e/renderer/components/safeareacontext/EventEmitters.cpp.o	f0256e8be85aad55
+154	22552	7787540702737537	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/1cb93097b6d2834c296c5386f18b3448/source/codegen/jni/safeareacontext-generated.cpp.o	b7e396648a04a716
+139	22613	7787540703576959	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/9d8255a45a6b9fe5acc1ed8b2226a70a/safeareacontext/safeareacontextJSI-generated.cpp.o	5e1384c9d15972d8
+2	25324	7787540730514666	CMakeFiles/appmodules.dir/OnLoad.cpp.o	901a6967d55a758f
+107	25348	7787540730975818	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/0a92a8a637679970a0c416c4e35b266e/renderer/components/safeareacontext/ShadowNodes.cpp.o	c5cbf55ce88ccad7
+31	25403	7787540731430065	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/c047d914c324f4ef397df44dc1dd92a4/components/safeareacontext/RNCSafeAreaViewState.cpp.o	17f521bb42d31e44
+93	28412	7787540761738567	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/68387415e4531d4a945dd29aa0e87b25/react/renderer/components/safeareacontext/Props.cpp.o	3bac6dfa2254e3af
+80	29089	7787540768385643	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/3fcee03ac52a58ff9ba7afefca4c44b3/components/safeareacontext/ComponentDescriptors.cpp.o	2ca29055c11200f
+46	29315	7787540770578077	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/7c1936bb3610c2b5a18a6980279e1f4f/safeareacontext/RNCSafeAreaViewShadowNode.cpp.o	85a8b49933a7cb6f
+29316	29769	7787540775028032	C:/Users/DELL/Desktop/hello/HelloApp/android/app/build/intermediates/cxx/RelWithDebInfo/6v5id2a5/obj/x86/libreact_codegen_safeareacontext.so	22a1b90c8d23f65a
+17	32145	7787540798762028	CMakeFiles/appmodules.dir/C_/Users/DELL/Desktop/hello/HelloApp/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o	9579d570050fc34a
+32146	32395	7787540801792195	C:/Users/DELL/Desktop/hello/HelloApp/android/app/build/intermediates/cxx/RelWithDebInfo/6v5id2a5/obj/x86/libappmodules.so	ba58777d411ca88e
+14	187	0	C:/Users/DELL/Desktop/hello/HelloApp/android/app/.cxx/RelWithDebInfo/6v5id2a5/x86/CMakeFiles/cmake.verify_globs	424f9867c8914380
+0	65	0	clean	4e350e9dcb7ec83f

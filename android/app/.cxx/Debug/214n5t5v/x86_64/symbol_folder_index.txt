@@ -1,0 +1,1 @@
+C:\Users\DELL\Desktop\hello\HelloApp\android\app\build\intermediates\cxx\Debug\214n5t5v\obj\x86_64

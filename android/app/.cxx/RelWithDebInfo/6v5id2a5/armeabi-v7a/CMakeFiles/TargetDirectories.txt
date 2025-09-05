@@ -1,0 +1,6 @@
+C:/Users/DELL/Desktop/hello/HelloApp/android/app/.cxx/RelWithDebInfo/6v5id2a5/armeabi-v7a/CMakeFiles/appmodules.dir
+C:/Users/DELL/Desktop/hello/HelloApp/android/app/.cxx/RelWithDebInfo/6v5id2a5/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/DELL/Desktop/hello/HelloApp/android/app/.cxx/RelWithDebInfo/6v5id2a5/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+C:/Users/DELL/Desktop/hello/HelloApp/android/app/.cxx/RelWithDebInfo/6v5id2a5/armeabi-v7a/safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir
+C:/Users/DELL/Desktop/hello/HelloApp/android/app/.cxx/RelWithDebInfo/6v5id2a5/armeabi-v7a/safeareacontext_autolinked_build/CMakeFiles/edit_cache.dir
+C:/Users/DELL/Desktop/hello/HelloApp/android/app/.cxx/RelWithDebInfo/6v5id2a5/armeabi-v7a/safeareacontext_autolinked_build/CMakeFiles/rebuild_cache.dir
